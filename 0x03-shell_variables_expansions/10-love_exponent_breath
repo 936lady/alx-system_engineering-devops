@@ -1,1 +1,2 @@
 #!/bin/bash
+echo $(($BREATH**$LOVE)) #my kind of examples. power of love 
